@@ -1,0 +1,11 @@
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\bin\Debug\netcoreapp2.1\TestConflict.deps.json
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\bin\Debug\netcoreapp2.1\TestConflict.runtimeconfig.json
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\bin\Debug\netcoreapp2.1\TestConflict.runtimeconfig.dev.json
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\bin\Debug\netcoreapp2.1\TestConflict.dll
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\obj\Debug\netcoreapp2.1\TestConflict.csprojAssemblyReference.cache
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\obj\Debug\netcoreapp2.1\TestConflict.csproj.CoreCompileInputs.cache
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\obj\Debug\netcoreapp2.1\TestConflict.AssemblyInfoInputs.cache
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\obj\Debug\netcoreapp2.1\TestConflict.AssemblyInfo.cs
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\bin\Debug\netcoreapp2.1\TestConflict.pdb
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\obj\Debug\netcoreapp2.1\TestConflict.dll
+C:\Users\ctr20\Desktop\School\UNCW\CSC 450\TestConflict\TestConflict\obj\Debug\netcoreapp2.1\TestConflict.pdb
