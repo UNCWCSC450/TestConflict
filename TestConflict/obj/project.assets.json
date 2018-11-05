@@ -1053,11 +1053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ctr20\\Desktop\\School\\UNCW\\CSC 450\\TestConflict\\TestConflict\\TestConflict.csproj",
+      "projectUniqueName": "C:\\Users\\ctr20\\Desktop\\TestConflict\\TestConflict\\TestConflict\\TestConflict.csproj",
       "projectName": "TestConflict",
-      "projectPath": "C:\\Users\\ctr20\\Desktop\\School\\UNCW\\CSC 450\\TestConflict\\TestConflict\\TestConflict.csproj",
+      "projectPath": "C:\\Users\\ctr20\\Desktop\\TestConflict\\TestConflict\\TestConflict\\TestConflict.csproj",
       "packagesPath": "C:\\Users\\ctr20\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ctr20\\Desktop\\School\\UNCW\\CSC 450\\TestConflict\\TestConflict\\obj\\",
+      "outputPath": "C:\\Users\\ctr20\\Desktop\\TestConflict\\TestConflict\\TestConflict\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
